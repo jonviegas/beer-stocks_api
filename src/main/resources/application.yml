@@ -1,0 +1,16 @@
+server:
+  error:
+    include-message: ALWAYS
+    include-stacktrace: ON_PARAM
+    include-binding-errors: ALWAYS
+    include-exception: false
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+  flyway:
+    sql-migration-prefix: V
+    repeatable-sql-migration-prefix: R
+    sql-migration-separator: _
+    sql-migration-suffixes: .sql

@@ -1,0 +1,8 @@
+version: '3.4'
+services:
+  beer-stocks:
+    build: .
+    image: beer-stocks
+    command: java -jar beerstocks-0.0.1-SNAPSHOT.jar
+    ports:
+      - "8080:8080"
