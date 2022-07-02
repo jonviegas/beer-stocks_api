@@ -6,11 +6,11 @@ This **REST API** provides a system for managing beer stocks, offering the funct
 - - -
 ## :cloud: Cloud
 
-The project is also hosted on *Heroku*, [click here](https://beer-stocks-api.herokuapp.com/beers) to access it.
+The project is also hosted on *Heroku*, [click here](https://beer-system-api.herokuapp.com/beers) to access it.
 - - -
 ## :green_book: Documentation
 
-[Click here](https://beer-stocks-api.com/swagger-ui.html) to access the complete documentation made with *swagger*.
+[Click here](https://beer-system-api.com/swagger-ui.html) to access the complete documentation made with *swagger*.
 
 - - -
 ## :computer: Usage
